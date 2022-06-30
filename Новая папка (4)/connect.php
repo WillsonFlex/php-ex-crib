@@ -1,5 +1,5 @@
 <?php
-$link = mysqli_connect('localhost', 'z192', '6)k2euY_.^62', 'z192');
+$link = mysqli_connect('localhost', 'z-ka', 'password', 'z-ka');
 
 if (!$link) {
   die('Error connect to DB');
