@@ -1,0 +1,42 @@
+.lk {
+    margin: 50px 0px;
+}
+
+.lk__wrapper {
+    padding: 50px;
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lk__info {
+    width: 30%;
+}
+
+.lk__history {
+    max-height: 570px;
+    overflow: auto;
+    width: 70%;
+}
+
+.lk__snicker-card_image img {
+    max-width: 150px;
+    width: 100%;
+}
+
+.lk__snicker-card {
+    display: flex;
+    margin: 20px 0px;
+}
+
+
+.lk__snicker-card img {
+    max-width: 150px;
+    width: 100%;
+}
+
+.lk__snicker-card__content {
+    margin-left: 30px;
+    font-size: 24px;
+    font-weight: bold;
+}

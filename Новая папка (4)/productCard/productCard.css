@@ -1,0 +1,19 @@
+.productCard {
+    margin: 50px 0px;
+}
+
+.productCard__wrapper {
+    padding: 50px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.productCard__image {
+    width: 50%;
+}
+
+.productCard__info {
+    width: 50%;
+}
